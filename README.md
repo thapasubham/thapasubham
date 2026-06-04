@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I enjoy building backend services, low-level systems, and exploring how things work under the hood.
-🔗 **[Portfolio Website](https://thapasubham.github.io/)**
 ---
 
 
