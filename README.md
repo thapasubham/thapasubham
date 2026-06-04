@@ -13,9 +13,10 @@ I enjoy building backend services, low-level systems, and exploring how things w
 
 ## Tech I use
 
-- Svelte 5
+- Svelte 
 - TypeScript
 - Go
+- Rust
 - React
 - Redis
 - RabbitMQ
