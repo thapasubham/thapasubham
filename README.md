@@ -1,17 +1,25 @@
 ## Hi there 👋
 
-I'm a software engineer who enjoys building systems, backend services, and learning low-level concepts.
-
+I enjoy building backend services, low-level systems, and exploring how things work under the hood.
+🔗 **[Portfolio Website](https://thapasubham.github.io/)**
 ---
 
-## 🚀 GitHub Stats
+
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thapasubham&layout=compact)
+
+
 ---
 
-## 🛠️ Tech I use
-- Rust
-- Go
+## Tech I use
+
+- Svelte 5
 - TypeScript
-- GraphQL
-- TCP / Networking
+- Go
+- React
+- Redis
+- RabbitMQ
+- MongoDB
+- PostgreSQL
+- MySQL
