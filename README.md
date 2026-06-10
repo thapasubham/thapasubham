@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I enjoy building backend services, low-level systems, and exploring how things work under the hood.
+I enjoy building backend services, systems, and exploring how things work under the hood.
 ---
 
 
